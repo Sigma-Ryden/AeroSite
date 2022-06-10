@@ -10,7 +10,7 @@ login: admin
 password: 0000
 ```
 How to use?
-* For CRUD operation visit: ```domain/admin/```
-* For view the tables visit: ```domain/aero/```
+* For CRUD operation visit: ```<domain>/admin/```
+* For view the tables visit: ```<domain>/aero/<table_name>```
 
 Note that: `domain` is link to starting development server.
